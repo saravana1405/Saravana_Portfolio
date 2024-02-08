@@ -10,8 +10,8 @@ import testimonialTwo from "./images/testmonial/testimonialTwo.jpeg";
 import testimonialThree from "./images/testmonial/testimonialThree.jpeg";
 import quote from "./images/testmonial/quote.png";
 import contactImg from "./images/contact/contactImg.png";
-import mylogo from "./images/mainlogo.jpeg";
-import mainphoto from "./images/main-photo.png";
+import mylogo from "./images/my-photo2.jpeg";
+import mainphoto from "./images/main-photo2.jpeg";
 import footerimg from "./images/footer1.jpeg";
 export {
   mainphoto,
