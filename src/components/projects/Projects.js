@@ -21,11 +21,11 @@ const Projects = () => {
           des=" Develop an intuitive online car parking booking website to streamline the reservation process, providing users with a convenient and efficient platform to secure parking spaces in real-time."
           src={projectOne}
           githubLink="https://github.com/saravana1405/Car-Parking-Booking"
-          websiteLink="https://mihirc0111-ipl-predictor-mihir-app-8s1ct4.streamlit.app/"
+         
 
         />
         <ProjectsCard
-          title="Mi-Blog-Van"
+          title="Weather Forecasting"
           des=" Develop a user-friendly weather app providing real-time forecasts based on location with intuitive UI and minimal data consumption."
           src={projectTwo}
           githubLink="https://github.com/mihirc0111/Mi-Blog-Van"
